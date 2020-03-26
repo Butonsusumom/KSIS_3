@@ -1,0 +1,9 @@
+﻿  RLOGIN-TCP-CLIENT.cpp
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\rlogin\tcp\rlogin-tcp-client\rlogin-tcp-client\rlogin-tcp-client.cpp(75): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\rlogin\tcp\rlogin-tcp-client\rlogin-tcp-client\rlogin-tcp-client.cpp(75): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\rlogin\tcp\rlogin-tcp-client\rlogin-tcp-client\rlogin-tcp-client.cpp(92): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\rlogin\tcp\rlogin-tcp-client\rlogin-tcp-client\rlogin-tcp-client.cpp(92): warning C4309: '=': truncation of constant value
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\rlogin\tcp\rlogin-tcp-client\rlogin-tcp-client\rlogin-tcp-client.cpp(82): warning C4101: 'tempBuf': unreferenced local variable
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\rlogin\tcp\rlogin-tcp-client\rlogin-tcp-client\rlogin-tcp-client.cpp(216): warning C4101: 'nsize': unreferenced local variable
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\rlogin\tcp\rlogin-tcp-client\rlogin-tcp-client\rlogin-tcp-client.cpp(213): warning C4101: 'thID': unreferenced local variable
+  RLOGIN-TCP-CLIENT.vcxproj -> C:\Users\KSU\Лабы\4 сем\КСиС\3 лаба\RLogin\TCP\RLOGIN-TCP-CLIENT\Debug\RLOGIN-TCP-CLIENT.exe
