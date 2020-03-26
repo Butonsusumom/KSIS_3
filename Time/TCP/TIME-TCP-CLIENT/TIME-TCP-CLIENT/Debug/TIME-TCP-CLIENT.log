@@ -1,0 +1,4 @@
+﻿  TIME-TCP-CLIENT.cpp
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\time\tcp\time-tcp-client\time-tcp-client\time-tcp-client.cpp(90): warning C4101: 'nsize': unreferenced local variable
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\time\tcp\time-tcp-client\time-tcp-client\time-tcp-client.cpp(87): warning C4101: 'thID': unreferenced local variable
+  TIME-TCP-CLIENT.vcxproj -> C:\Users\KSU\Лабы\4 сем\КСиС\3 лаба\Time\TCP\TIME-TCP-CLIENT\Debug\TIME-TCP-CLIENT.exe

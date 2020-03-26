@@ -1,0 +1,3 @@
+﻿  TIME-UDP-SERVER.cpp
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\time\udp\time-udp-server\time-udp-server\time-udp-server.cpp(24): warning C4101: 'hostent': unreferenced local variable
+  TIME-UDP-SERVER.vcxproj -> C:\Users\KSU\Лабы\4 сем\КСиС\3 лаба\Time\UDP\TIME-UDP-SERVER\Debug\TIME-UDP-SERVER.exe

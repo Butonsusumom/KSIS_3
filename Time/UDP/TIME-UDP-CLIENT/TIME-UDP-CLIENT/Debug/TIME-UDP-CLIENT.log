@@ -1,0 +1,3 @@
+﻿  TIME-UDP-CLIENT.cpp
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\time\udp\time-udp-client\time-udp-client\time-udp-client.cpp(16): warning C4101: 'BufSize': unreferenced local variable
+  TIME-UDP-CLIENT.vcxproj -> C:\Users\KSU\Лабы\4 сем\КСиС\3 лаба\Time\UDP\TIME-UDP-CLIENT\Debug\TIME-UDP-CLIENT.exe
