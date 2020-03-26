@@ -1,0 +1,4 @@
+﻿  TELNET-TCP-CLIENT.cpp
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\telnet\tcp\telnet-tcp-client\telnet-tcp-client\telnet-tcp-client.cpp(97): warning C4101: 'nsize': unreferenced local variable
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\telnet\tcp\telnet-tcp-client\telnet-tcp-client\telnet-tcp-client.cpp(94): warning C4101: 'thID': unreferenced local variable
+  TELNET-TCP-CLIENT.vcxproj -> C:\Users\KSU\Лабы\4 сем\КСиС\3 лаба\Telnet\TCP\TELNET-TCP-CLIENT\Debug\TELNET-TCP-CLIENT.exe

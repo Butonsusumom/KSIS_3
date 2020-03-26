@@ -1,0 +1,11 @@
+
+Pinging habr.com [178.248.237.68] with 32 bytes of data:
+Reply from 178.248.237.68: bytes=32 time=589ms TTL=54
+Reply from 178.248.237.68: bytes=32 time=100ms TTL=54
+Reply from 178.248.237.68: bytes=32 time=433ms TTL=54
+Reply from 178.248.237.68: bytes=32 time=350ms TTL=54
+
+Ping statistics for 178.248.237.68:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 100ms, Maximum = 589ms, Average = 368ms
