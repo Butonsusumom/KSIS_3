@@ -1,0 +1,4 @@
+﻿  ECHO-TCP-CLIENT.cpp
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\echo-tcp-client\echo-tcp-client\echo-tcp-client.cpp(87): warning C4101: 'nsize': unreferenced local variable
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\echo-tcp-client\echo-tcp-client\echo-tcp-client.cpp(84): warning C4101: 'thID': unreferenced local variable
+  ECHO-TCP-CLIENT.vcxproj -> C:\Users\KSU\Лабы\4 сем\КСиС\3 лаба\ECHO-TCP-CLIENT\Debug\ECHO-TCP-CLIENT.exe
