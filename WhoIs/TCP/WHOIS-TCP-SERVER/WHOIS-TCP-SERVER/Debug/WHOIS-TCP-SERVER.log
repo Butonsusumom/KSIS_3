@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  WHOIS-TCP-SERVER.cpp
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\whois\tcp\whois-tcp-server\whois-tcp-server\whois-tcp-server.cpp(122): warning C4018: '<': signed/unsigned mismatch
+  WHOIS-TCP-SERVER.vcxproj -> C:\Users\KSU\Лабы\4 сем\КСиС\3 лаба\WhoIs\TCP\WHOIS-TCP-SERVER\Debug\WHOIS-TCP-SERVER.exe

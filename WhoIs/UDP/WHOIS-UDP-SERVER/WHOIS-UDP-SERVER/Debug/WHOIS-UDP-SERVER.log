@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  WHOIS-UDP-SERVER.cpp
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\whois\udp\whois-udp-server\whois-udp-server\whois-udp-server.cpp(116): warning C4018: '<': signed/unsigned mismatch
+  WHOIS-UDP-SERVER.vcxproj -> C:\Users\KSU\Лабы\4 сем\КСиС\3 лаба\WhoIs\UDP\WHOIS-UDP-SERVER\Debug\WHOIS-UDP-SERVER.exe

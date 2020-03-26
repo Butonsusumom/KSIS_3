@@ -1,0 +1,12 @@
+google.com 2138514_DOMAIN_COM-VRSN 1997-09-15 US GoogleLLC
+vk.com 3206186_DOMAIN_COM-VRSN 1997-06-24 RU whoisproxy.ru
+ucoz.net 202030495_DOMAIN_NET-VRSN 2005-08-27 VG CompubyteLimited
+twitter.com 18195971_DOMAIN_COM-VRSN 2000-01-21 US Twitter,Inc.
+kinopoisk.ru 3201452_DOMAIN_RU-VRSN 2003-07-14 RU "Kinopoisk",LLC
+microsoft.com 2724960_DOMAIN_COM-VRSN 1991-05-01 US MicrosoftCorporation
+habr.com 95689973_DOMAIN_COM-VRSN 2003-03-11 CY HabrBlockchainPublishingLTD
+facebook.com 2320948_DOMAIN_COM-VRSN 1997-03-29 US Facebook,Inc.
+instagram.com 121748357_DOMAIN_COM-VRSN 2004-06-04 US InstagramLLC
+tumblr.com 477969468_DOMAIN_COM-VRSN 2006-06-08 US Automattic,Inc.
+github.com 1264983250_DOMAIN_COM-VRSN 2007-10-09 US GitHub,Inc.
+pinterest.com 1577084852_DOMAIN_COM-VRSN 2009-11-26 US DNStinationInc.
