@@ -1,0 +1,4 @@
+﻿  FINGER-UDP-CLIENT.cpp
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\finger\udp\finger-udp-client\finger-udp-client\finger-udp-client.cpp(82): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\ksu\лабы\4 сем\ксис\3 лаба\finger\udp\finger-udp-client\finger-udp-client\finger-udp-client.cpp(82): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  FINGER-UDP-CLIENT.vcxproj -> C:\Users\KSU\Лабы\4 сем\КСиС\3 лаба\Finger\UDP\FINGER-UDP-CLIENT\Debug\FINGER-UDP-CLIENT.exe

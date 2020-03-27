@@ -1,0 +1,3 @@
+﻿  FINGER-UDP-SERVER.cpp
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\finger\udp\finger-udp-server\finger-udp-server\finger-udp-server.cpp(96): warning C4101: 'bytes_recv': unreferenced local variable
+  FINGER-UDP-SERVER.vcxproj -> C:\Users\KSU\Лабы\4 сем\КСиС\3 лаба\Finger\UDP\FINGER-UDP-SERVER\Debug\FINGER-UDP-SERVER.exe

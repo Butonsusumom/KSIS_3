@@ -1,0 +1,10 @@
+﻿  FINGER-TCP-CLIENT.cpp
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\finger\tcp\finger-tcp-client\finger-tcp-client\finger-tcp-client.cpp(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\ksu\лабы\4 сем\ксис\3 лаба\finger\tcp\finger-tcp-client\finger-tcp-client\finger-tcp-client.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\finger\tcp\finger-tcp-client\finger-tcp-client\finger-tcp-client.cpp(3): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\ksu\лабы\4 сем\ксис\3 лаба\finger\tcp\finger-tcp-client\finger-tcp-client\finger-tcp-client.cpp(3): note: Add macro to precompiled header instead of defining here
+  c:\users\ksu\лабы\4 сем\ксис\3 лаба\finger\tcp\finger-tcp-client\finger-tcp-client\finger-tcp-client.cpp(4): note: use of precompiled header
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\finger\tcp\finger-tcp-client\finger-tcp-client\finger-tcp-client.cpp(80): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\ksu\лабы\4 сем\ксис\3 лаба\finger\tcp\finger-tcp-client\finger-tcp-client\finger-tcp-client.cpp(80): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\ksu\лабы\4 сем\ксис\3 лаба\finger\tcp\finger-tcp-client\finger-tcp-client\finger-tcp-client.cpp(49): warning C4101: 'hst': unreferenced local variable
+  FINGER-TCP-CLIENT.vcxproj -> C:\Users\KSU\Лабы\4 сем\КСиС\3 лаба\Finger\TCP\FINGER-TCP-CLIENT\Debug\FINGER-TCP-CLIENT.exe
